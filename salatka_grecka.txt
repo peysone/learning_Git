@@ -8,9 +8,12 @@ Przepis na sałatkę grecką
 4 łyżki suszonego oregano
 4 łyżki oliwy
 sól i pieprz 
+<<<<<<< HEAD
 chleb pszenny 
 bułka pełnoziarnista
 podpieczony chlebek pita
+=======
+>>>>>>> parent of beb1a42 (dodano bułkę do przepisu)
 
 1. pomidory pokroić na małe kawałki
 2. pokroić ogórki na półplasterki
