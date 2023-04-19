@@ -1,1 +1,9 @@
 log1.txt
+
+
+/dane-testowe-*/
+
+ *.xlsx
+
+/venv/
+/env/
