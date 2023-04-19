@@ -1,0 +1,69 @@
+commit b8bec7925b1e28decdcc2ed870343ea8f470095b
+Author: Peysone <peysone@MacBook-Pro-Peysone.local>
+Date:   Tue Apr 18 19:37:02 2023 +0200
+
+    Revert "dodano skłądniki na kotlety mielone"
+    
+    This reverts commit 91d830c380d9a5ae2448205e273ec8de22b2d256.
+
+commit 91d830c380d9a5ae2448205e273ec8de22b2d256
+Author: Peysone <peysone@MacBook-Pro-Peysone.local>
+Date:   Tue Apr 18 19:36:08 2023 +0200
+
+    dodano skłądniki na kotlety mielone
+
+commit e9685cecab631b19813226ce6892f2bdf7fe114b
+Author: Peysone <peysone@MacBook-Pro-Peysone.local>
+Date:   Tue Apr 18 19:33:28 2023 +0200
+
+    usunieto chleb oraz bulke z przepisu
+
+commit c42fc38f1fc29eb95fa3eda4693a1a3a194f281d
+Author: Peysone <peysone@MacBook-Pro-Peysone.local>
+Date:   Tue Apr 18 19:32:14 2023 +0200
+
+    usunieto chleb oraz bulke z przepisu
+
+commit b788a61d890e949845d388b2b5ec25ed1fc3feba
+Author: Peysone <peysone@MacBook-Pro-Peysone.local>
+Date:   Tue Apr 18 19:29:01 2023 +0200
+
+    dodano sposób podania salatki z chlebem pita
+
+commit beb1a427bc4fde63f102e376d80291e51a30fef1
+Author: Peysone <peysone@MacBook-Pro-Peysone.local>
+Date:   Tue Apr 18 19:26:43 2023 +0200
+
+    dodano bułkę do przepisu
+
+commit dfc9546c5fb4e8cb4f8245ca70195d3a7a9faf62
+Author: Peysone <peysone@MacBook-Pro-Peysone.local>
+Date:   Sun Apr 16 20:39:11 2023 +0200
+
+    Revert "podano sposób podania z chlebem"
+    
+    This reverts commit 8a9cd03185bd2d160f50cc52d0883fcf26a92ad7.
+
+commit 8a9cd03185bd2d160f50cc52d0883fcf26a92ad7
+Author: Peysone <peysone@MacBook-Pro-Peysone.local>
+Date:   Sun Apr 16 20:23:06 2023 +0200
+
+    podano sposób podania z chlebem
+
+commit 8273aedb18fdaa87f36cdd12d17330fe0ed394d0
+Author: Peysone <peysone@MacBook-Pro-Peysone.local>
+Date:   Sun Apr 16 20:21:34 2023 +0200
+
+    dodano pusty plik i poprawiono literówke w przepisie
+
+commit 18d789e6524597a82163ec9c4404a0c4445d1b3b
+Author: Peysone <peysone@MacBook-Pro-Peysone.local>
+Date:   Sun Apr 16 20:13:31 2023 +0200
+
+    dodano listę czynności do przyrządzenia sałatki greckiej
+
+commit 01a458a2dbb77ef631586f074f86546ed9acb701
+Author: Peysone <peysone@MacBook-Pro-Peysone.local>
+Date:   Sun Apr 16 20:09:20 2023 +0200
+
+    dodano sklad salatki greckiej
